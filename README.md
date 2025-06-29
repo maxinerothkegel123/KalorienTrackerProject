@@ -1,19 +1,8 @@
-# KalorienTrackerProject
+touch README.md
 
-## 📌 Beschreibung
-Ein Java-Programm zur Verwaltung und Analyse von Mahlzeiten und Kalorien.
+# Text in die README schreiben
+echo "# KalorienTrackerProject" > README.md
+echo "" >> README.md
+echo "Ein Java-Programm zur Verwaltung von Kalorien und Mahlzeiten." >> README.md
 
-## 🧩 Projektstruktur
-- `src/projekt_maxine/`: Hauptklassen (z. B. `Mahlzeit.java`, `KalorienTracker.java`)
-- `KalorienTracker.form`: GUI-Datei (Swing)
-- `test`: Testklassen
 
-## ▶️ Nutzung
-Starte die Anwendung über die Main-Klasse in IntelliJ. Die GUI ermöglicht das Hinzufügen und Anzeigen von Mahlzeiten.
-
-## 💻 Technologien
-- Java
-- IntelliJ IDEA
-- Swing GUI
-- ggf. JUnit
-# KalorienTrackerProject
